@@ -1,0 +1,74 @@
+
+h1{
+    text-align:center
+}
+
+#SubHeading{
+    text-align:left
+   
+}
+
+#mainContent{
+    display:inline-block;
+}
+
+.card{
+    height:500px;
+    width:22%; 
+    float:left;
+    background-color: #29ea9359;
+    margin-left:2.5%;
+    overflow: hidden;
+    overflow:scroll;
+    
+}
+
+
+.card img{
+    height:50%;
+    width:100%;
+    
+
+    
+}
+
+.card h2{
+    text-align:center;
+    margin-left:5%;
+    
+}
+
+#para{
+    margin-left: 4%;
+    margin-top: -6%;
+    padding: 10px;
+    float: left;
+}
+
+.last{
+    text-align:left;
+    margin-top:1%;
+}
+
+
+
+#brown{
+    background-color:antiquewhite
+}
+footer{
+    background-color: orange;
+    height:100px;
+    width:100%;
+    margin-top:-2%;
+}
+
+h3 {
+    text-align:center;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}

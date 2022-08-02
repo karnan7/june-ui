@@ -1,0 +1,19 @@
+
+personnel access tocken
+
+     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
+
+     git remote add origin https://karnan7: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@github.com/karnan7/testprofile.git
+
+     git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://karnan7: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@github.com/karnan7/Bootstrap.git
+git push -u origin main
+
+
+
+<!-- bootstrap -->
+ 
+     fontawesome.com

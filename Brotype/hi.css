@@ -1,0 +1,44 @@
+.obox{
+    width: 100%;
+    height: 300px;
+    background: cyan;
+    padding: 10px;
+}
+.box1{
+    width: 40%;
+    height: 30%;
+    background: rgb(220, 145, 14);
+    float :left;
+    margin: 10px;
+}
+.box2{
+    width: 40%;
+    height: 30%;
+    background: rgb(28, 228, 10);
+    float :left;
+    margin: 10px;
+
+}
+.box3{
+    width: 40%;
+    height: 30%;
+    background: rgb(93, 10, 247);
+    float :left;
+    margin: 10px;
+
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    background: rgb(250, 4, 139);
+    float :left;
+    margin: 10px;
+}
+.ibox{
+    width: 90%;
+    height: 60%;
+    background: rgb(250, 4, 4);
+    margin:18px;
+    
+
+}
